@@ -1,54 +1,66 @@
 <h1 align="center">Hi 👋, I'm Abu Bakar</h1>
-<h3 align="center">AI & Generative AI Enthusiast | Building Intelligent & Scalable Solutions</h3>
 
----
-
-### 👨‍💻 About Me
-- 🔭 Currently working on **Generative AI projects** and practical applications of **RAG (Retrieval-Augmented Generation)**  
-- 🌱 Exploring **Data Science, NLP, and AI-driven solutions**  
-- 👯 Looking to collaborate on **AI, Generative AI, and Data Science projects**  
-- 💬 Ask me about **Python, AI, SQL, and Data Science concepts**  
-- 📫 Reach me at **abubakar001@example.com** *(replace with your real email)*  
-
----
-
-### ⚡ Tech Stack
-
-#### 🔹 AI & Data Science
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas" />
-
-#### 🔹 Programming & Databases
-<img src="https://skillicons.dev/icons?i=cpp,sql" />
-
-#### 🔹 Tools & Deployment
-<img src="https://skillicons.dev/icons?i=docker" />
-
-#### 🔹 Web/UI
-<img src="https://skillicons.dev/icons?i=tailwind" />
-
----
-
-### 🚀 Featured Projects
-
-- 📌 [**Banking System in Python**](https://github.com/abubakar001/Banking-System) – Simple account creation, deposit, withdrawal, and balance checking.  
-- 📌 [**Restaurant Management System**](https://github.com/abubakar001/Restaurant-System) – Python-based project for handling orders and billing.  
-- 📌 [**Web Scraping Project**](https://github.com/abubakar001/Web-Scraping) – Extracted structured data from websites.  
-- 📌 [**Portfolio Website – Tree House**](https://github.com/abubakar001/Portfolio) – Fully responsive portfolio for a software house with animations.  
-- 📌 [**AI & RAG Experiments**](https://github.com/abubakar001/AI-RAG-Projects) – Building intelligent search and retrieval systems.  
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakar001&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar001&theme=tokyonight" alt="streak" height="160"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=AI+%26+Generative+AI+;Data+Science;Building+Human-Centric+AI+Apps;Always+Learning+%26+Innovating" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abubakarworking&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarworking" /> 
+  <img src="https://img.shields.io/github/followers/abubakarworking?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/abubakarworking?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 👨‍💻 About Me
+- 🔭 Currently working on **Large Language Models (LLMs)** & **Generative AI applications**.  
+- 🌱 Expanding expertise in **Data Science, Machine Learning, and Vector Databases**.  
+- 👯 Open to collaborating on **AI-driven projects** with real-world impact.  
+- 🤝 Seeking opportunities in **AI/ML research, scalable applications, and data engineering**.  
+- 📫 Reach me at **abubakarkha203@gmail.com**  
+
+---
+
+## 🌍 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/yourlinkedin" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://leetcode.com/yourleetcode" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
-<a href="https://github.com/abubakar001" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://linkedin.com/in/abu bakar" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+</a>
+<a href="https://www.leetcode.com/abubakar_001" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" width="40" />
+</a>
 </p>
+
+---
+
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,cpp,sql,docker,git,tailwind" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakarworking&show_icons=true&theme=tokyonight" alt="stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakarworking&theme=tokyonight" alt="streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarworking&layout=compact&theme=tokyonight" alt="top languages" height="160"/>
+</p>
+
+---
+
+## 🚀 Current Focus
+- LLM fine-tuning & embeddings  
+- RAG (Retrieval-Augmented Generation) pipelines  
+- Semantic search with **vector databases**  
+- AI applications in **healthcare, education, and safety**  
+
+---
+
+## ⚡ Fun Fact
+_"AI won’t replace people, but people using AI will."_  
