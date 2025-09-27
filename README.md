@@ -15,11 +15,12 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on **Large Language Models (LLMs)** & **Generative AI applications**.  
-- 🌱 Expanding expertise in **Data Science, Machine Learning, and Vector Databases**.  
-- 👯 Open to collaborating on **AI-driven projects** with real-world impact.  
-- 🤝 Seeking opportunities in **AI/ML research, scalable applications, and data engineering**.  
-- 📫 Reach me at **abubakarkha203@gmail.com**  
+- 🔭 Focused on developing **Large Language Models (LLMs)** and **Generative AI solutions**.  
+- 🌱 Strengthening expertise in **Data Science, Machine Learning, and Vector Database technologies**.  
+- 👯 Interested in collaborating on **AI projects with measurable real-world impact**.  
+- 🤝 Open to opportunities in **AI/ML research, scalable system design**.  
+- 📫 Contact: **abubakarkha203@gmail.com**  
+
 
 ---
 
