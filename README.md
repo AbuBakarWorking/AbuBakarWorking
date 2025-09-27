@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=AI+%26+Generative+AI+;Data+Science;Building+Human-Centric+AI+Apps;Always+Learning+%26+Innovating" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=AI+%26+Generative+AI+Engineer;Data+Science+%7C+Machine+Learning;Building+Human-Centric+AI+Apps;Always+Learning+%26+Innovating" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,18 +15,11 @@
 ---
 
 ## 👨‍💻 About Me
-## 🛠 Tech Stack
-
-- **Languages**: Python, C++  
-- **AI/ML**: PyTorch, TensorFlow  
-- **Data Science**: Pandas, NumPy  
-- **Databases**: MS SQL Server, PostgreSQL  
-- **Tools**: Jupyter Notebook, VS Code, Docker  
-- **Web Development**: HTML, CSS  
-- **Other Skills**: Web Scraping (BeautifulSoup, Requests)  
-
-
-
+- 🔭 Currently working on **Large Language Models (LLMs)** & **Generative AI applications**.  
+- 🌱 Expanding expertise in **Data Science, Machine Learning, Vector Databases, and Web Scraping**.  
+- 👯 Open to collaborating on **AI-driven projects** with real-world impact.  
+- 🤝 Open to opportunities in **AI/ML research and Data Analysis**.  
+- 📫 Reach me at **abubakarkha203@gmail.com**  
 
 ---
 
@@ -44,21 +37,21 @@
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
-  
-  <!-- AI/ML -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-  
-  <!-- Data -->
-  <img src="https://skillicons.dev/icons?i=pandas,mysql" />
-  
-  <!-- DevOps / Tools -->
-  <img src="https://skillicons.dev/icons?i=docker" />
-  
-  <!-- Web / Styling -->
-  <img src="https://skillicons.dev/icons?i=html,tailwind" />
+  <!-- Languages & AI/ML -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,pandas" />
+  <br/>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="40" width="40" alt="SQL Workbench" />
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="40" width="40" alt="SQL Server" />
+  <br/>
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=docker,vscode" />
+  <img src="https://img.icons8.com/color/48/trello.png" height="40" width="40" alt="Trello" />
+  <img src="https://img.icons8.com/color/48/notion.png" height="40" width="40" alt="Notion" />
+  <br/>
+  <!-- Web -->
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ---
@@ -76,9 +69,18 @@
 ---
 
 ## 🚀 Current Focus
-- AI &LLM: **Artificial Intelligence**, **Generative AI**, and **Large Language Models (LLMs)**
 - LLM fine-tuning & embeddings  
+- RAG (Retrieval-Augmented Generation) pipelines  
+- Semantic search with **vector databases**  
 - AI applications in **healthcare, education, and safety**  
+
+---
+
+## 📚 Learning Interests
+- Artificial Intelligence & **Generative AI**  
+- **Large Language Models (LLMs)** and their fine-tuning  
+- **Hugging Face** ecosystem & transformers  
+- Building scalable, **real-world AI solutions**  
 
 ---
 
