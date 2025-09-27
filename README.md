@@ -16,10 +16,11 @@
 
 ## 👨‍💻 About Me
 - 🔭 Focused on developing **Large Language Models (LLMs)** and **Generative AI solutions**.  
-- 🌱 Strengthening expertise in **Data Science, Machine Learning, and Vector Database technologies**.  
+- 🌱 Strengthening expertise in **Data Science, Machine Learning, Vector Databases, and Web Scraping**.  
 - 👯 Interested in collaborating on **AI projects with measurable real-world impact**.  
-- 🤝 Open to opportunities in **AI/ML research, scalable system design**.  
+- 🤝 Open to opportunities in **AI/ML research, scalable system design, and data engineering**.  
 - 📫 Contact: **abubakarkha203@gmail.com**  
+
 
 
 ---
@@ -38,7 +39,21 @@
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,cpp,sql,docker,git,tailwind" />
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
+  
+  <!-- AI/ML -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  
+  <!-- Data -->
+  <img src="https://skillicons.dev/icons?i=pandas,mysql" />
+  
+  <!-- DevOps / Tools -->
+  <img src="https://skillicons.dev/icons?i=docker" />
+  
+  <!-- Web / Styling -->
+  <img src="https://skillicons.dev/icons?i=html,tailwind" />
 </p>
 
 ---
