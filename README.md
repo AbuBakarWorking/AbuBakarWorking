@@ -15,11 +15,16 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Focused on developing **Large Language Models (LLMs)** and **Generative AI solutions**.  
-- 🌱 Strengthening expertise in **Data Science, Machine Learning, Vector Databases, and Web Scraping**.  
-- 👯 Interested in collaborating on **AI projects with measurable real-world impact**.  
-- 🤝 Open to opportunities in **AI/ML research, scalable system design, and data engineering**.  
-- 📫 Contact: **abubakarkha203@gmail.com**  
+## 🛠 Tech Stack
+
+- **Languages**: Python, C++  
+- **AI/ML**: PyTorch, TensorFlow  
+- **Data Science**: Pandas, NumPy  
+- **Databases**: MS SQL Server, PostgreSQL  
+- **Tools**: Jupyter Notebook, VS Code, Docker  
+- **Web Development**: HTML, CSS  
+- **Other Skills**: Web Scraping (BeautifulSoup, Requests)  
+
 
 
 
