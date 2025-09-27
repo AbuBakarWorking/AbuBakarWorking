@@ -2,72 +2,64 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=AI+%26+Generative+AI+Enthusiast;Data+Science+Explorer;Building+Human-Centric+AI+Applications;Always+Learning+%26+Innovating" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=AI+%26+Generative+AI+Engineer;Data+Science+%7C+Machine+Learning;Building+Human-Centric+AI+Apps;Always+Learning+%26+Innovating" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abubakarworking&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarworking" />
+  <img src="https://komarev.com/ghpvc/?username=abubakarworking&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarworking" /> 
+  <img src="https://img.shields.io/github/followers/abubakarworking?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/abubakarworking?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Exploring **Large Language Models (LLMs)** and **Generative AI** for real-world applications.  
-- 🌱 Learning **Data Science** & **AI System Design** to craft intelligent solutions.  
-- 👯 Open to collaborating on **AI-driven projects** that solve real problems.  
-- 🤝 Seeking guidance on **scalable AI apps & vector database integration**.  
-- 📫 Reach me at: **abubakarkha203@gmail.com**  
+## 👨‍💻 About Me
+- 🔭 Currently working on **Large Language Models (LLMs)** & **Generative AI applications**.  
+- 🌱 Expanding expertise in **Data Science, Machine Learning, and Vector Databases**.  
+- 👯 Open to collaborating on **AI-driven projects** with real-world impact.  
+- 🤝 Seeking opportunities in **AI/ML research, scalable applications, and data engineering**.  
+- 📫 Reach me at **abubakarkha203@gmail.com**  
 
 ---
 
-### 🌐 Connect With Me
+## 🌍 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/abu bakar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu bakar" height="30" width="40" />
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
 </a>
 <a href="https://www.leetcode.com/abubakar_001" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abubakar_001" height="30" width="40" />
+  <img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" width="40" />
 </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,cpp,sql,docker,git,tailwind" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarworking&show_icons=true&locale=en&layout=compact" alt="abubakarworking" />
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakarworking&show_icons=true&theme=tokyonight" alt="stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakarworking&theme=tokyonight" alt="streak" height="180" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakarworking&show_icons=true&locale=en" alt="abubakarworking" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarworking&layout=compact&theme=tokyonight" alt="top languages" height="160"/>
 </p>
+
+---
+
+## 🚀 Current Focus
+- LLM fine-tuning & embeddings  
+- Semantic search with **vector databases**  
+- AI applications in **healthcare, education, and safety**  
+
+---
+
+## ⚡ Fun Fact
+_"AI won’t replace people, but people using AI will."_  
