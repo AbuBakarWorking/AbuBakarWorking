@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=AI+%26+Generative+AI+Engineer;Data+Science+%7C+Machine+Learning;Building+Human-Centric+AI+Apps;Always+Learning+%26+Innovating" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=AI+%26+Generative+AI+;Data+Science+%7C;Building+Human-Centric+AI+Apps;Always+Learning+%26+Innovating" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,14 +24,9 @@
 ---
 
 ## 🌍 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/abu bakar" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
-</a>
-<a href="https://www.leetcode.com/abubakar_001" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" width="40" />
-</a>
-</p>
+- Email: **abubakarkha203@gmail.com**  
+- LinkedIn: [linkedin.com/in/abubakarawan](https://www.linkedin.com/in/abubakarawan)  
+- GitHub: [github.com/abubakar001](https://github.com/abubakar001) 
 
 ---
 
