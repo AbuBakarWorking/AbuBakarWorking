@@ -69,18 +69,17 @@
 ---
 
 ## 🚀 Current Focus
-- LLM fine-tuning & embeddings  
-- RAG (Retrieval-Augmented Generation) pipelines  
-- Semantic search with **vector databases**  
-- AI applications in **healthcare, education, and safety**  
-
----
-
-## 📚 Learning Interests
 - Artificial Intelligence & **Generative AI**  
 - **Large Language Models (LLMs)** and their fine-tuning  
 - **Hugging Face** ecosystem & transformers  
-- Building scalable, **real-world AI solutions**  
+- Building scalable, **real-world AI solutions** 
+
+--- 
+
+## 📚 Learning Interests
+- RAG (Retrieval-Augmented Generation) pipelines  
+- Semantic search with **vector databases**  
+- AI applications in **healthcare, education, and safety**  
 
 ---
 
