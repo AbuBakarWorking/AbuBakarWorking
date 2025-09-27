@@ -76,9 +76,8 @@
 ---
 
 ## 🚀 Current Focus
+- AI &LLM: **Artificial Intelligence**, **Generative AI**, and **Large Language Models (LLMs)**
 - LLM fine-tuning & embeddings  
-- RAG (Retrieval-Augmented Generation) pipelines  
-- Semantic search with **vector databases**  
 - AI applications in **healthcare, education, and safety**  
 
 ---
