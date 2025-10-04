@@ -64,9 +64,8 @@
 ---
 
 ## 🚀 Current Focus
-- Artificial Intelligence & **Generative AI**  
+- **Artificial Intelligence**,**Generative AI**
 - **Large Language Models (LLMs)** and their fine-tuning  
-- **Hugging Face** ecosystem & transformers  
 - Building scalable, **real-world AI solutions** 
 
 --- 
