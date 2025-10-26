@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=AI+%26+Generative+AI+;Data+Science;Building+Human-Centric+AI+Apps;Always+Learning+%26+Innovating" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=AI+%26+Agentic+AI;Building+Human-Centric+AI+Apps;Always+Learning+%26+Innovating" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 ## 🛠️ Tech Stack
 <p align="left">
   <!-- Languages & AI/ML -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,pandas" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,sklearn,pandas" />
   <br/>
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgresql" />
@@ -64,9 +64,9 @@
 ---
 
 ## 🚀 Current Focus
-- **Artificial Intelligence**,**Generative AI**
+- **Artificial Intelligence**, **Agentic AI**  
 - **Large Language Models (LLMs)** and their fine-tuning  
-- Building scalable, **real-world AI solutions** 
+- Building scalable, **real-world AI solutions**  
 
 --- 
 
@@ -78,4 +78,4 @@
 ---
 
 ## ⚡ Fun Fact
-_"AI won’t replace people, but people using AI will."_  
+_"AI won’t replace people, but people using AI will."_
