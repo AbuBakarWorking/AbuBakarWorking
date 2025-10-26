@@ -25,7 +25,7 @@
 
 ## 🌍 Connect With Me
 - Email: **abubakarkha203@gmail.com**  
-- LinkedIn: [linkedin.com/in/abubakarawan](https://www.linkedin.com/in/abubakarawan)  
+- LinkedIn: [linkedin.com/in/abu-bakar-45659b279/](https://www.linkedin.com/in/abu-bakar-45659b279/)  
 - GitHub: [https://github.com/AbuBakarWorking](https://github.com/AbuBakarWorking) 
 
 ---
