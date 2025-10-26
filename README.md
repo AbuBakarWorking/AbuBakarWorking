@@ -15,11 +15,11 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on **AI, Generative AI applications** & **Large Language Models (LLMs)**   
-- 🌱 Expanding expertise in **Data Science, Web Scraping**.  
-- 👯 Open to collaborating on **AI-driven projects** with real-world impact.  
-- 🤝 Open to opportunities in **AI/ML research and Data Analysis**.  
-- 📫 Reach me at **abubakarkha203@gmail.com**  
+- 🔭 Currently working on **AI, Agentic AI applications**, and **Large Language Models (LLMs)**  
+- 🌱 Expanding expertise in **LangChain** and **Web Scraping**  
+- 👯 Open to collaborating on **AI-driven projects** with real-world impact  
+- 🤝 Open to opportunities in **Agentic AI research and application development**  
+- 📫 Reach me at **abubakarkha203@gmail.com**
 
 ---
 
